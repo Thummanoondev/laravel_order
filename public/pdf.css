@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'THSarabunNew';
+    font-style: normal;
+    font-weight: normal;
+    src: url("fonts/THSarabunNew.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'THSarabunNew';
+    font-style: normal;
+    font-weight: bold;
+    src: url("fonts/THSarabunNew Bold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'THSarabunNew';
+    font-style: italic;
+    font-weight: normal;
+    src: url("fonts/THSarabunNew Italic.ttf'") format('truetype');
+}
+
+@font-face {
+    font-family: 'THSarabunNew';
+    font-style: italic;
+    font-weight: bold;
+    src: url("fonts/THSarabunNew BoldItalic.ttf") format('truetype');
+}
+
+
+
+.headerorder {
+
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 1px;
+    width: 100%;
+    margin: 0px;
+    /* ลดพื้นที่ด้านบน */
+
+    /* ลดพื้นที่ด้านล่าง */
+}
